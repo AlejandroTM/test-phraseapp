@@ -3,6 +3,7 @@
     "message": "hi there!"
   },
   "greeting":{
-    "message": "greeting"
+    "message": "greeting",
+    "description": "This is a key for messages"
   }
 }
