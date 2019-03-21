@@ -14,5 +14,9 @@
   "autopush":{
     "message": "autopush",
     "description": "This is autopush key"
+  },
+  "rafa": {
+    "message": "Rafa",
+    "description": "Description"
   }
 }
