@@ -1,4 +1,8 @@
 {
+  "autopush": {
+    "message": "autopush",
+    "description": "This is autopush key"
+  },
   "greeting": {
     "message": "greeting"
   },
