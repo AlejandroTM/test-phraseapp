@@ -1,6 +1,7 @@
 {
   "simple_key": {
-    "message": "hi there!"
+    "message": "hi there!",
+    "description": "Could you add a description??"
   },
   "greeting":{
     "message": "greeting",
@@ -9,5 +10,9 @@
   "new":{
     "message": "new key",
     "description": "This is a new key"
+  },
+  "autopush":{
+    "message": "autopush",
+    "description": "This is autopush key"
   }
 }
