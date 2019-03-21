@@ -10,6 +10,10 @@
     "message": "new key",
     "description": "This is a new key 2"
   },
+  "rafa": {
+    "message": "Rafa",
+    "description": "Description"
+  },
   "simple_key": {
     "message": "hi there!"
   }
