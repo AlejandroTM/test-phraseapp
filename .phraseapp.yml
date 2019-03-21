@@ -3,7 +3,7 @@ phraseapp:
   project_id: 50902f1527d40887fdc6ffa305b894e7
   push:
     sources:
-    - file: ./assets/en.json
+    - file: ./assets/key.json
       params:
         file_format: json
   pull:
@@ -19,4 +19,6 @@ phraseapp:
         file_format: json
     - file: ./assets/it.json
       params:
+        file_format: json
+    - file: ./assets/en.json
         file_format: json
