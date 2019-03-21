@@ -1,5 +1,8 @@
 {
-  "greeting": "hi there!",
-  "pet": "dog",
-  "pet_2": "cat"
+  "greeting": {
+    "message": "hi there!"
+  },
+  "pet": {
+    "message": "dog"
+  }
 }
