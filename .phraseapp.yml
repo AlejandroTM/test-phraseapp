@@ -3,23 +3,11 @@ phraseapp:
   project_id: 50902f1527d40887fdc6ffa305b894e7
   push:
     sources:
-    - file: ./assets/key.json
+    - file: ./assets/<locale_name>.json
       params:
         file_format: json
   pull:
     targets:
-    - file: ./assets/es.json
-      params:
-        file_format: json
-    - file: ./assets/fr.json
-      params:
-        file_format: json
-    - file: ./assets/cz.json
-      params:
-        file_format: json
-    - file: ./assets/it.json
-      params:
-        file_format: json
-    - file: ./assets/en.json
+    - file: ./assets/<locale_name>.json
       params:
         file_format: json
