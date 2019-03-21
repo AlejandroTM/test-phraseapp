@@ -1,5 +1,8 @@
 {
   "simple_key": {
     "message": "hi there!"
+  },
+  "greeting":{
+    "message": "greeting"
   }
 }
