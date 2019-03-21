@@ -5,5 +5,9 @@
   "greeting":{
     "message": "greeting",
     "description": "This is a key for messages"
+  },
+  "new":{
+    "message": "new key",
+    "description": "This is a new key"
   }
 }
