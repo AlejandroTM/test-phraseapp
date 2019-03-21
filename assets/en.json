@@ -1,8 +1,8 @@
 {
-  "greeting": {
+  "greeting_key": {
     "message": "hi there!"
   },
-  "pet": {
+  "pet_key": {
     "message": "dog"
   }
 }
