@@ -21,4 +21,5 @@ phraseapp:
       params:
         file_format: json
     - file: ./assets/en.json
-        file_format: json
+        params:
+          file_format: json
